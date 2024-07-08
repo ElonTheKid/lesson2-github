@@ -7,6 +7,6 @@ import org.junit.jupiter.api.Test;
 public class exampleTest {
     @Test
     void exampleTest(){
-        Assertions.assertTrue(  256 > 100 );
+        Assertions.assertTrue(  2998 > 100 );
     }
 }
